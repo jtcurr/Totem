@@ -1,7 +1,7 @@
 #Totem
-<img src="images/totem1.png" width="200">
-<img src="images/totem2.png" width="200">
-<img src="images/totem3.png" width="200">
+
+
+<img src="images/totem1.png" width="200"><img src="images/totem2.png" width="200"><img src="images/totem3.png" width="200">
 
 App that allows you to see where your friends are at a current music festival
 
