@@ -1,11 +1,7 @@
 #Totem
-
-![Alt text](/images/totem1.png =250x)
-![Alt text](/images/totem2.png? =250x)
-![Alt text](/images/totem3.png? =250x)
-<img src="images/totem1.png" width="200">
-<img src="images/totem2.png" width="200">
-<img src="images/totem3.png" width="200">
+<img src="images/totem1.png" width="250">
+<img src="images/totem2.png" width="250">
+<img src="images/totem3.png" width="250">
 
 App that allows you to see where your friends are at a current music festival
 
